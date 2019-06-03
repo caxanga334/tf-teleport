@@ -7,5 +7,3 @@ This is a simple plugin I made to learn how to use keyvalues.
 
 * Randomly teleport a origin set in the config files.
 * Team specific origins.
-
-Discord account: Anonymous Player#4908
